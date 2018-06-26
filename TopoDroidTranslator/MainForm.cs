@@ -41,7 +41,7 @@ namespace TopoDroidTranslator
                     confLanguageCode = config.AppSettings.Settings["LanguageCode"].Value;
 
                 if (Directory.Exists(symbolsDirectory))
-                    OpenSymbolsDirectory(symbolsDirectory);
+                    OpenSymbolsDirectory(symbolsDirectory); 
             }
             catch (Exception ex)
             {
