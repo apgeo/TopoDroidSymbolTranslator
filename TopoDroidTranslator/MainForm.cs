@@ -40,7 +40,8 @@ namespace TopoDroidTranslator
                 if (config.AppSettings.Settings["LanguageCode"] != null)
                     confLanguageCode = config.AppSettings.Settings["LanguageCode"].Value;
 
-                OpenSymbolsDirectory(symbolsDirectory);
+                if (Directory.Exists(symbolsDirectory))
+                    OpenSymbolsDirectory(symbolsDirectory);
             }
             catch (Exception ex)
             {
@@ -301,7 +302,7 @@ namespace TopoDroidTranslator
         private void updateFilesButton_Click(object sender, EventArgs e)
         {
 
-            if (MessageBox.Show("This tool is experimental and may lead to information loss. Please backup your repository file before going forward. Continue modifying the files?", GlobalContext.ApplicationTitle, MessageBoxButtons.OKCancel) == DialogResult.Cancel)
+            if (MessageBox.Show("This tool is experimental and may lead to information loss. Please backup your repository files before going forward. Continue modifying the files?", GlobalContext.ApplicationTitle, MessageBoxButtons.OKCancel) == DialogResult.Cancel)
             {
                 
                 return;
