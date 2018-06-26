@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\TopoDroidTranslator\TopoDroidTranslator\bin\Debug\TopoDroidTranslator.exe.config
+c:\users\user\documents\visual studio 2017\Projects\TopoDroidTranslator\TopoDroidTranslator\bin\Debug\TopoDroidTranslator.exe
+c:\users\user\documents\visual studio 2017\Projects\TopoDroidTranslator\TopoDroidTranslator\bin\Debug\TopoDroidTranslator.pdb
+c:\users\user\documents\visual studio 2017\Projects\TopoDroidTranslator\TopoDroidTranslator\obj\Debug\TopoDroidTranslator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\TopoDroidTranslator\TopoDroidTranslator\obj\Debug\TopoDroidTranslator.MainForm.resources
+c:\users\user\documents\visual studio 2017\Projects\TopoDroidTranslator\TopoDroidTranslator\obj\Debug\TopoDroidTranslator.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\TopoDroidTranslator\TopoDroidTranslator\obj\Debug\TopoDroidTranslator.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\TopoDroidTranslator\TopoDroidTranslator\obj\Debug\TopoDroidTranslator.exe
+c:\users\user\documents\visual studio 2017\Projects\TopoDroidTranslator\TopoDroidTranslator\obj\Debug\TopoDroidTranslator.pdb
